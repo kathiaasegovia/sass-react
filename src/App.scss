@@ -1,0 +1,14 @@
+@import './scss/variables.scss';
+
+.App {
+      background-color:$primary-color;
+      color:$secondary-color; 
+      min-height: 100vh;   
+      display: flex;
+      justify-content: center;  
+      align-items: center;
+}
+
+
+
+
